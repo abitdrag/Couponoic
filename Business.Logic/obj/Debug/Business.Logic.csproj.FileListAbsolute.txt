@@ -1,0 +1,56 @@
+C:\Users\Admin\Desktop\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Admin\Desktop\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Admin\Desktop\Project\Business.Logic\bin\Debug\DataAccess.dll
+C:\Users\Admin\Desktop\Project\Business.Logic\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Desktop\Project\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Admin\Desktop\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Admin\Dropbox\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Admin\Dropbox\Project\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Admin\Dropbox\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Admin\Dropbox\Project\Business.Logic\bin\Debug\DataAccess.dll
+C:\Users\Admin\Dropbox\Project\Business.Logic\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Dropbox\Project\Business.Logic\obj\Debug\Business.Logic.dll
+G:\Project\Business.Logic\bin\Debug\Business.Logic.dll
+G:\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+G:\Project\Business.Logic\bin\Debug\DataAccess.dll
+G:\Project\Business.Logic\bin\Debug\DataAccess.pdb
+G:\Project\Business.Logic\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\Business.Logic\obj\Debug\Business.Logic.dll
+G:\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+F:\Project\Business.Logic\bin\Debug\Business.Logic.dll
+F:\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+F:\Project\Business.Logic\bin\Debug\DataAccess.dll
+F:\Project\Business.Logic\bin\Debug\DataAccess.pdb
+F:\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+F:\Project\Business.Logic\obj\Debug\Business.Logic.dll
+F:\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\DataAccess.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+F:\Miki\Sem 8\dhara\Project\Business.Logic\bin\Debug\Business.Logic.dll
+F:\Miki\Sem 8\dhara\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+F:\Miki\Sem 8\dhara\Project\Business.Logic\bin\Debug\DataAccess.dll
+F:\Miki\Sem 8\dhara\Project\Business.Logic\bin\Debug\DataAccess.pdb
+F:\Miki\Sem 8\dhara\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+F:\Miki\Sem 8\dhara\Project\Business.Logic\obj\Debug\Business.Logic.dll
+F:\Miki\Sem 8\dhara\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+H:\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.dll
+H:\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+H:\Final Project\Project\Business.Logic\bin\Debug\DataAccess.dll
+H:\Final Project\Project\Business.Logic\bin\Debug\DataAccess.pdb
+H:\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+H:\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.dll
+H:\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.pdb
+F:\Miki\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.dll
+F:\Miki\Final Project\Project\Business.Logic\bin\Debug\Business.Logic.pdb
+F:\Miki\Final Project\Project\Business.Logic\bin\Debug\DataAccess.dll
+F:\Miki\Final Project\Project\Business.Logic\bin\Debug\DataAccess.pdb
+F:\Miki\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+F:\Miki\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.dll
+F:\Miki\Final Project\Project\Business.Logic\obj\Debug\Business.Logic.pdb

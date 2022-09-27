@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/CompanyMasterPage.master" AutoEventWireup="true" CodeFile="InternalCompanyProfile.master.cs" Inherits="InternalCompanyProfile" Debug="true"%>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    
+           
+               <div class="span12">
+                   <!-- BEGIN THEME CUSTOMIZER-->
+                   
+                   <!-- END THEME CUSTOMIZER-->
+                  <!-- BEGIN PAGE TITLE & BREADCRUMB-->
+                   <h3 class="page-title">
+                     Profile
+                   </h3>
+                   <ul class="breadcrumb">
+                       <li>
+                           <a href="#">Home</a>
+                           <span class="divider">/</span>
+                       </li>
+                       
+                       <li class="active">
+                           Profile
+                       </li>
+                       
+                   </ul>
+                   <!-- END PAGE TITLE & BREADCRUMB-->
+               </div>
+         
+            <!-- END PAGE HEADER-->
+            <!-- BEGIN PAGE CONTENT-->
+             
+                 <!-- BEGIN PROFILE PORTLET-->
+                 <div class=" profile span12">
+                     <div class="span2">
+                         <div class="profile-photo">
+                             <img src='<%= MyPhoto %>' alt="">
+
+                             
+                         </div>
+                         <a href="CompanyProfile.aspx" class="profile-features tab1">
+                             <i class=" icon-phone"></i>
+                             <p class="info">Contact Details</p>
+                         </a>
+                         
+                         <a href="CompanyProfileFeedback.aspx" class="profile-features tab2">
+                             <i class=" icon-comments-alt"></i>
+                             <p class="info">Feedbacks</p>
+                         </a>
+
+                         <a href="CompanyFranchisee.aspx" class="profile-features tab3">
+                             <i class=" icon-th-large"></i>
+                             <p class="info">Franchisees</p>
+                         </a>
+                     </div>
+                     <div class="span9">
+                         <div class="profile-head" style='height:100px; background-image:url("img\photo.jpg")'>
+                             <div class="span4">
+                                 <h1><%= MyName %></h1>
+                                
+                             </div>
+
+                             <%--<div class="span4">
+                                 <a href="edit_profile.html" class="btn btn-edit btn-large pull-right mtop20"> Edit Profile </a>
+                             </div>--%>
+                         </div>
+                         <div class="space15"></div>
+                        <asp:ContentPlaceHolder id="InternalBody" runat="server">
+        
+                         </asp:ContentPlaceHolder>
+                     </div>
+                 </div>
+                
+                 <!-- END PROFILE PORTLET-->
+        
+      
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="scriptsHolder" Runat="Server">
+ <asp:ContentPlaceHolder id="InternalScript" runat="server">
+        
+ </asp:ContentPlaceHolder>
+
+</asp:Content>
+

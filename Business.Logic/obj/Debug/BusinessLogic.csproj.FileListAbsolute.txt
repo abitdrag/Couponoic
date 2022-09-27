@@ -1,0 +1,7 @@
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\DataAccess.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\BusinessLogic.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\bin\Debug\BusinessLogic.pdb
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\BusinessLogic.dll
+C:\Users\Admin\Dropbox\Final Project\Project\Business.Logic\obj\Debug\BusinessLogic.pdb
