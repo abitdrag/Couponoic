@@ -8,7 +8,7 @@ There are five users of the system:
 **Customers:** They can browse through the portal, see the posts from affiliates about offers and purchase the coupon through affiliate. The customer can use the coupon at any of the company franchise. Android application is also created for customers to redeem the coupons.   
 **Company Franchise:** Each franchise belong to a company. A franchise user is provided with interface to redeem coupon of customers. 
 
-This project was created for learning purpose and the motive behind the project was to promote the Affiliate marketing and chaining. Complete study is performed in order to create the project. It uses 3-tier architecture, C# with .NET framework and MySQL database. 
+This project was created for learning purpose and the motive behind the project was to promote the Affiliate marketing and chaining. Complete study is performed in order to create the project. It uses 3-tier architecture, C# with .NET framework and MySQL database.    
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/88789894/192526038-0650a967-1a59-432c-838a-09ee48241456.png">    
 Please go through the report to get the complete understanding. 
 Please Check the Couponoic_Android repository for Android application of the project.
