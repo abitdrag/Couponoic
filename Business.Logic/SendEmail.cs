@@ -13,7 +13,7 @@ namespace Business.Logic
    {
      string result = "Message Sent Successfully..!!";
      string senderID = "couponoic@gmail.com";// use sender’s email id here..
-     const string senderPassword = "couponoic@1234"; // sender password here…
+     const string senderPassword = ""; // sender password here…
      try
      {
        SmtpClient smtp = new SmtpClient
