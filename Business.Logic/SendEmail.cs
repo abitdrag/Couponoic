@@ -12,7 +12,7 @@ namespace Business.Logic
   public string SendMail(string toAddress, string subject, string body)
    {
      string result = "Message Sent Successfully..!!";
-     string senderID = "couponoic@gmail.com";// use sender’s email id here..
+     string senderID = "";// use sender’s email id here..
      const string senderPassword = ""; // sender password here…
      try
      {
